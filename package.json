@@ -1,0 +1,20 @@
+{
+  "name": "ambiente-desarrrollo",
+  "version": "1.0.0",
+  "description": "Tarea Semana 3 ambiente de desarrollo",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Marlon Martinez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "currency.js": "^2.0.4"
+  }
+}
